@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pKb0mqcEeSDDJsNt+zymiVr7OwwHcdKYKqqkECeAFXM=",
+  "Source": "platformservice",
+  "BasePath": "_content/platformservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
